@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "boba-fret",
+    "name": "Boba Fret",
+    "asking_price": "120,000",
+    "city": "Richmond",
+    "state": "VA"
+  },
+  {
+    "slug": "dukes-grill",
+    "name": "Dukes Grill",
+    "asking_price": "80,000",
+    "city": "Harrisonburg",
+    "state": "VA"
+  }
+]
